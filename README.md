@@ -5,4 +5,4 @@ I have a high degree in cross-platform application development (touching a lot o
 and a lot of Android Studio). Now, I'm studying the same degree but in web.
 How to reach me?
 - In Gmail --> jimenezmarset@gmail.com
-- In LinkedIn --> Mario Jiménez Marset
+- In LinkedIn --> www.linkedin.com/in/mario-jiménez-marset-51489825a
