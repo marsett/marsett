@@ -79,14 +79,6 @@
 
 ![GitHub Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marsett&theme=github_dark)
 
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/marsett"
-    width="300"
-    height="200"
-  />
-</a>
-
 ---
 
 ### 📫 **Cómo contactarme**
