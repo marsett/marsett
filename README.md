@@ -83,7 +83,7 @@
   <img
     src="https://render.gitanimals.org/lines/marsett"
     width="300"
-    height="180"
+    height="200"
   />
 </a>
 
