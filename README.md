@@ -2,7 +2,7 @@
 
 ![Banner](https://i.pinimg.com/originals/38/a7/69/38a769ed038d1bf50a2a052e458c6f3b.gif)
 
-## 🧑‍💻 Sobre mí
+## 💻 Sobre mí
 🎓 Desarrollador apasionado por la **tecnología**, el aprendizaje continuo y la innovación.  
 🌟 Me encanta explorar nuevas herramientas y lenguajes mientras colaboro en proyectos interesantes.  
 
