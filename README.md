@@ -49,7 +49,6 @@
 ---
 
 ### 🌱 **Actualmente estoy...**
-- Perfeccionando mis habilidades en **C#** y **Angular**.  
 - Explorando tecnologías de **Microsoft Power Platform**, **Microsoft Azure** y **AWS**.  
 
 ---
