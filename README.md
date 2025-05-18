@@ -55,7 +55,6 @@
 
 ### 🏆 Certificaciones
 <div align="center">
-  <!-- Microsoft Certifications -->
   <h3>Microsoft</h3>
   <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; margin-bottom: 40px;">
     <div align="center">
@@ -77,7 +76,6 @@
       </a>
     </div>
   </div>
-  <!-- AWS Certifications -->
   <h3>AWS</h3>
   <div align="center" style="margin-bottom: 20px;">
     <a href="https://signin.aws.amazon.com/">
