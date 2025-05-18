@@ -55,47 +55,60 @@
 
 ### 🏆 Certificaciones
 <div align="center">
-<table>
-  <tr>
-    <td align="center" colspan="4"><h3>🔷 Microsoft</h3></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://learn.microsoft.com/es-es/users/mariojimenezmarset-5547/credentials/49fe011e61bf1ec8?ref=https%3A%2F%2Fwww.linkedin.com%2F">
-        <img src="./assets/power_platform_developer.png" alt="Power Platform Fundamentals" width="120px" />
-        <br />
-        <b>Power Platform<br/>Fundamentals</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://learn.microsoft.com/api/credentials/share/es-es/MarioJimenezMarset-5547/C0A404BD8891E1B1?sharingId=1C9169A92F4DA389">
-        <img src="./assets/azure_developer.png" alt="Azure Developer Associate" width="120px" />
-        <br />
-        <b>Azure Developer<br/>Associate</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://learn.microsoft.com/api/credentials/share/es-es/MarioJimenezMarset-5547/9F6B4692A8B7C08A?sharingId=1C9169A92F4DA389">
-        <img src="./assets/azure_ai_engineer.png" alt="Azure AI Engineer Associate" width="120px" />
-        <br />
-        <b>Azure AI Engineer<br/>Associate</b>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="4"><h3>☁️ AWS</h3></td>
-  </tr>
-  <tr>
-    <td align="center" colspan="4">
-      <a href="https://signin.aws.amazon.com/">
-        <img src="./assets/aws_developer.png" alt="AWS Developer Associate" width="120px" />
-        <br />
-        <b>AWS Developer<br/>Associate</b>
-      </a>
-    </td>
-  </tr>
-</table>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin-bottom: 40px;">
+    <div>
+      <h3 style="background-color: #0078d4; color: white; padding: 10px 15px; border-radius: 8px; display: inline-block;">
+        <img src="https://img.icons8.com/color/28/000000/microsoft.png" style="vertical-align: middle; margin-right: 8px;"/>
+        Microsoft
+      </h3>
+      <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px; margin-top: 15px;">
+        <div style="text-align: center; width: 150px; transition: transform 0.3s;">
+          <a href="https://learn.microsoft.com/es-es/users/mariojimenezmarset-5547/credentials/49fe011e61bf1ec8?ref=https%3A%2F%2Fwww.linkedin.com%2F" style="text-decoration: none; color: inherit;">
+            <div style="background-color: white; border-radius: 12px; padding: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); height: 100%;">
+              <img src="./assets/power_platform_developer.png" alt="Power Platform Fundamentals" width="120px" style="margin-bottom: 10px;"/>
+              <h4 style="margin: 10px 0; color: #333;">Power Platform<br/>Fundamentals</h4>
+            </div>
+          </a>
+        </div>
+        <div style="text-align: center; width: 150px; transition: transform 0.3s;">
+          <a href="https://learn.microsoft.com/api/credentials/share/es-es/MarioJimenezMarset-5547/C0A404BD8891E1B1?sharingId=1C9169A92F4DA389" style="text-decoration: none; color: inherit;">
+            <div style="background-color: white; border-radius: 12px; padding: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); height: 100%;">
+              <img src="./assets/azure_developer.png" alt="Azure Developer Associate" width="120px" style="margin-bottom: 10px;"/>
+              <h4 style="margin: 10px 0; color: #333;">Azure Developer<br/>Associate</h4>
+            </div>
+          </a>
+        </div>
+        <div style="text-align: center; width: 150px; transition: transform 0.3s;">
+          <a href="https://learn.microsoft.com/api/credentials/share/es-es/MarioJimenezMarset-5547/9F6B4692A8B7C08A?sharingId=1C9169A92F4DA389" style="text-decoration: none; color: inherit;">
+            <div style="background-color: white; border-radius: 12px; padding: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); height: 100%;">
+              <img src="./assets/azure_ai_engineer.png" alt="Azure AI Engineer Associate" width="120px" style="margin-bottom: 10px;"/>
+              <h4 style="margin: 10px 0; color: #333;">Azure AI Engineer<br/>Associate</h4>
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
+    <div>
+      <h3 style="background-color: #FF9900; color: white; padding: 10px 15px; border-radius: 8px; display: inline-block;">
+        <img src="https://img.icons8.com/color/28/000000/amazon-web-services.png" style="vertical-align: middle; margin-right: 8px;"/>
+        AWS
+      </h3>
+      <div style="display: flex; justify-content: center; margin-top: 15px;">
+        <div style="text-align: center; width: 150px; transition: transform 0.3s;">
+          <a href="https://signin.aws.amazon.com/" style="text-decoration: none; color: inherit;">
+            <div style="background-color: white; border-radius: 12px; padding: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); height: 100%;">
+              <img src="./assets/aws_developer.png" alt="AWS Developer Associate" width="120px" style="margin-bottom: 10px;"/>
+              <h4 style="margin: 10px 0; color: #333;">AWS Developer<br/>Associate</h4>
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
+
 ---
 
 ### 🐾 **Proyectos Destacados**
