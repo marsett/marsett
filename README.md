@@ -55,34 +55,46 @@
 
 ### 🏆 Certificaciones
 <div align="center">
-Microsoft
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <div align="center" style="margin: 10px;">
-    <a href="https://learn.microsoft.com/es-es/users/mariojimenezmarset-5547/credentials/49fe011e61bf1ec8?ref=https%3A%2F%2Fwww.linkedin.com%2F">
-      <img src="./assets/power_platform_developer.png" alt="Power Platform Fundamentals" width="150px" />
-    </a>
-    <p><b>Power Platform Fundamentals</b></p>
-  </div>
-  <div align="center" style="margin: 10px;">
-    <a href="https://learn.microsoft.com/api/credentials/share/es-es/MarioJimenezMarset-5547/C0A404BD8891E1B1?sharingId=1C9169A92F4DA389">
-      <img src="./assets/azure_developer.png" alt="Azure Developer Associate" width="150px" />
-    </a>
-    <p><b>Azure Developer Associate</b></p>
-  </div>
-  <div align="center" style="margin: 10px;">
-    <a href="https://learn.microsoft.com/api/credentials/share/es-es/MarioJimenezMarset-5547/9F6B4692A8B7C08A?sharingId=1C9169A92F4DA389">
-      <img src="./assets/azure_ai_engineer.png" alt="Azure AI Engineer Associate" width="150px" />
-    </a>
-    <p><b>Azure AI Engineer Associate</b></p>
-  </div>
-</div>
-AWS
-<div align="center">
-  <a href="https://signin.aws.amazon.com/">
-    <img src="./assets/aws_developer.png" alt="AWS Developer Associate" width="150px" />
-  </a>
-  <p><b>AWS Developer Associate</b></p>
-</div>
+<table>
+  <tr>
+    <td align="center" colspan="4"><h3>🔷 Microsoft</h3></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://learn.microsoft.com/es-es/users/mariojimenezmarset-5547/credentials/49fe011e61bf1ec8?ref=https%3A%2F%2Fwww.linkedin.com%2F">
+        <img src="./assets/power_platform_developer.png" alt="Power Platform Fundamentals" width="120px" />
+        <br />
+        <b>Power Platform<br/>Fundamentals</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://learn.microsoft.com/api/credentials/share/es-es/MarioJimenezMarset-5547/C0A404BD8891E1B1?sharingId=1C9169A92F4DA389">
+        <img src="./assets/azure_developer.png" alt="Azure Developer Associate" width="120px" />
+        <br />
+        <b>Azure Developer<br/>Associate</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://learn.microsoft.com/api/credentials/share/es-es/MarioJimenezMarset-5547/9F6B4692A8B7C08A?sharingId=1C9169A92F4DA389">
+        <img src="./assets/azure_ai_engineer.png" alt="Azure AI Engineer Associate" width="120px" />
+        <br />
+        <b>Azure AI Engineer<br/>Associate</b>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="4"><h3>☁️ AWS</h3></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="4">
+      <a href="https://signin.aws.amazon.com/">
+        <img src="./assets/aws_developer.png" alt="AWS Developer Associate" width="120px" />
+        <br />
+        <b>AWS Developer<br/>Associate</b>
+      </a>
+    </td>
+  </tr>
+</table>
 </div>
 ---
 
