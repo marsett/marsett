@@ -50,11 +50,7 @@ Disfruto explorando nuevas herramientas y lenguajes mientras colaboro en proyect
 ---
 
 ## 🌱 Actualmente estoy...
-- Explorando las posibilidades de **Microsoft Power Platform**
-- Profundizando en arquitecturas cloud con **Azure** y **AWS**
-- Aprendiendo nuevas técnicas de desarrollo web full stack
-- Buscando proyectos interesantes para colaborar
-
+💼 Desarrollando mi portfolio personal para mostrar mis proyectos y habilidades
 ---
 
 ## 🏆 Certificaciones
@@ -92,28 +88,8 @@ Disfruto explorando nuevas herramientas y lenguajes mientras colaboro en proyect
 
 ---
 
-## 🚀 Proyectos en los que estoy trabajando
-- 💼 Desarrollando mi portafolio personal con React y Azure
-- 🌐 Creando aplicaciones web con tecnologías Microsoft
-- 🤖 Experimentando con servicios de IA en Azure
-- ☁️ Arquitecturas serverless en AWS
-
----
-
-## 📊 Mis estadísticas en GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marsett&show_icons=true&theme=radical" alt="GitHub Stats" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marsett&layout=compact&theme=radical" alt="Top Langs" height="180em"/>
-</div>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marsett&theme=radical)
-
----
-
 ## 📫 ¿Hablamos?
 - ✉️ [mariojimenezmarset@outlook.com](mailto:mariojimenezmarset@outlook.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mario-jiménez-marset-51489825a)
-- 🐦 ¡Pregúntame por mi Discord!
 
 > "El código limpio hace una cosa y la hace bien" - Robert C. Martin
