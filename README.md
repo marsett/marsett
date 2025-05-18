@@ -53,24 +53,37 @@
 
 ---
 
-### 🏆 **Certificaciones**
-- 📜 **Microsoft Power Platform Fundamentals**  
-  <a href="https://learn.microsoft.com/es-es/users/mariojimenezmarset-5547/credentials/49fe011e61bf1ec8?ref=https%3A%2F%2Fwww.linkedin.com%2F">
-    <img src="https://flic.kr/p/2r5qUrX" alt="Power Platform Developer Certified" width="150px" />
-  </a>
-  - 📜 **Microsoft Power Platform Fundamentals**  
-  <a href="https://learn.microsoft.com/api/credentials/share/es-es/MarioJimenezMarset-5547/C0A404BD8891E1B1?sharingId=1C9169A92F4DA389">
-    <img src="https://flic.kr/p/2r5rH7g" alt="Azure Developer Certified" width="150px" />
-  </a>
-  - 📜 **Microsoft Power Platform Fundamentals**  
-  <a href="https://learn.microsoft.com/api/credentials/share/es-es/MarioJimenezMarset-5547/9F6B4692A8B7C08A?sharingId=1C9169A92F4DA389">
-    <img src="https://flic.kr/p/2r5rbYd" alt="Azure AI Engineer Certified" width="150px" />
-  </a>
-  - 📜 **Microsoft Power Platform Fundamentals**  
+### 🏆 Certificaciones
+<div align="center">
+Microsoft
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <div align="center">
+    <a href="https://learn.microsoft.com/es-es/users/mariojimenezmarset-5547/credentials/49fe011e61bf1ec8?ref=https%3A%2F%2Fwww.linkedin.com%2F">
+      <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="Power Platform Fundamentals" width="150px" />
+    </a>
+    <p><b>Power Platform Fundamentals</b></p>
+  </div>
+  <div align="center">
+    <a href="https://learn.microsoft.com/api/credentials/share/es-es/MarioJimenezMarset-5547/C0A404BD8891E1B1?sharingId=1C9169A92F4DA389">
+      <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" alt="Azure Developer Associate" width="150px" />
+    </a>
+    <p><b>Azure Developer Associate</b></p>
+  </div>
+  <div align="center">
+    <a href="https://learn.microsoft.com/api/credentials/share/es-es/MarioJimenezMarset-5547/9F6B4692A8B7C08A?sharingId=1C9169A92F4DA389">
+      <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" alt="Azure AI Engineer Associate" width="150px" />
+    </a>
+    <p><b>Azure AI Engineer Associate</b></p>
+  </div>
+</div>
+AWS
+<div align="center">
   <a href="https://signin.aws.amazon.com/">
-    <img src="https://flic.kr/p/2r5pYMQ" alt="AWS Developer Certified" width="150px" />
+    <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Developer-Associate.0dac426c907cbfa96152ad748269269759b7c2ad.png" alt="AWS Developer Associate" width="150px" />
   </a>
----
+  <p><b>AWS Developer Associate</b></p>
+</div>
+</div>
 
 ### 🐾 **Proyectos Destacados**
 - 🚀 [**Portfolio Web**](): Mi portafolio personal.  
