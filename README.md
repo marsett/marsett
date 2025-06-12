@@ -79,7 +79,7 @@ Disfruto explorando nuevas herramientas y lenguajes mientras colaboro en proyect
   </div>
   <h3>AWS</h3>
   <div align="center" style="margin-bottom: 20px;">
-    <a href="https://signin.aws.amazon.com/">
+    <a href="https://www.credly.com/badges/07057379-d3cc-44a1-abf4-7055b8eb8a54">
       <img src="./assets/aws_developer.png" alt="AWS Developer Associate" width="130px" />
       <p style="margin-top: 8px; color: #333; font-weight: 500;">AWS Developer Associate</p>
     </a>
