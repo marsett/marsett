@@ -50,7 +50,7 @@ Disfruto explorando nuevas herramientas y lenguajes mientras colaboro en proyect
 ---
 
 ## 🌱 Actualmente estoy...
-- 💼 Realizando proyectos personales y trabajando como desarrollador web full stack
+- 💼 Realizando proyectos personales y trabajando como desarrollador web full stack.
 ---
 
 ## 🏆 Certificaciones
