@@ -1,7 +1,5 @@
 # 👋 ¡Hola, soy Mario Jiménez Marset!
 
-![Visitas](https://visitor-badge.laobi.icu/badge?page_id=marsett.marsett&left_color=gray&right_color=blue)
-
 ![Banner](https://i.pinimg.com/originals/38/a7/69/38a769ed038d1bf50a2a052e458c6f3b.gif)
 
 ## 💻 Sobre mí
