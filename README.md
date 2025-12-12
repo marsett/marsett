@@ -12,7 +12,7 @@ Mi trayectoria me ha permitido cultivar un perfil versátil y adaptable, siempre
 ## Avanade
 
 ### **Junior Analyst** *(Diciembre 2025 - Presente)*
-Formo parte de equipos de desarrollo y soporte, realizando **analysis y testing de aplicaciones**, consultas y gestión de datos en **Oracle**, y administración y mantenimiento de aplicativos basados en **.NET 3.5**.  
+Formo parte de equipos de desarrollo y soporte, realizando **análisis y testing de aplicaciones**, consultas y gestión de datos en **Oracle**, y administración y mantenimiento de aplicativos basados en **.NET 3.5**.  
 Trabajo con metodologías **Agile**, herramientas colaborativas y participo en la optimización de procesos dentro de entornos corporativos.
 
 ### **Intern – Full Stack Development** *(Septiembre 2025 - Diciembre 2025)*
