@@ -9,11 +9,17 @@ Mi trayectoria me ha permitido cultivar un perfil versátil y adaptable, siempre
 
 ### 🚀 Experiencia profesional
 
-#### **Avanade** *(Septiembre 2025 - Diciembre 2025, prácticas)*
-Actualmente participo en proyectos Full Stack donde desarrollo y mantengo aplicaciones web con **.NET Core** en backend y **Angular, HTML, CSS** en frontend.  
-También colaboro en automatización de procesos con **Blueprism** y **UiPath**, testeo de aplicaciones y trabajo en entornos cloud con herramientas de **Microsoft Azure**.
+## Avanade
 
-**Tecnologías:** .NET, Angular, HTML, CSS, Blueprism, UiPath, Azure
+### **Junior Analyst** *(Diciembre 2025 - Presente)*
+Formo parte de equipos de desarrollo y soporte, realizando **analysis y testing de aplicaciones**, consultas y gestión de datos en **Oracle**, y administración y mantenimiento de aplicativos basados en **.NET 3.5**.  
+Trabajo con metodologías **Agile**, herramientas colaborativas y participo en la optimización de procesos dentro de entornos corporativos.
+
+### **Intern – Full Stack Development** *(Septiembre 2025 - Diciembre 2025)*
+Colaboré en tareas de **testing**, gestión de peticiones e incidencias mediante consultas a bases de datos **Oracle**, y en la administración de aplicaciones desarrolladas con **.NET 3.5**.  
+Adquirí experiencia en entornos profesionales con metodologías ágiles y herramientas de desarrollo colaborativo.
+
+**Tecnologías:** .NET, Jira, Testing, Oracle, Citrix
 
 ---
 
